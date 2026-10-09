@@ -1,3 +1,3 @@
-module github.com/sendflit/sendflit-go
+module github.com/Sendflit/sendflit-go
 
 go 1.21

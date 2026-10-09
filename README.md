@@ -5,7 +5,7 @@ Transactional email for applications and AI agents. Zero dependencies (stdlib `n
 ## Install
 
 ```bash
-go get github.com/sendflit/sendflit-go
+go get github.com/Sendflit/sendflit-go
 ```
 
 ## Usage
@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/sendflit/sendflit-go"
+	"github.com/Sendflit/sendflit-go"
 )
 
 func main() {
